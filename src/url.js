@@ -1,2 +1,2 @@
-export const URL="http://localhost:5000"
-export const IF="http://localhost:5000/images/"
+export const URL="https://filmnxapi.onrender.com"
+export const IF="https://filmnxapi.onrender.com/images/"
